@@ -1,3 +1,0 @@
-﻿  main.cpp
-F:\git_compt_grafica\computacao-grafica-ga-master\computacao-grafica-ga-master\Cubo\main.cpp(170,54): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
-  Cubo.vcxproj -> F:\git_compt_grafica\computacao-grafica-ga-master\computacao-grafica-ga-master\x64\Debug\Cubo.exe
