@@ -41,22 +41,26 @@ Lucas Eduardo Farias, Maithe Mikaele Mello
 
 Comando | Descrição
 ------------ | -------------
- 1       | Seleciona o primeiro objeto                            
- 2       | Seleciona o segundo objeto                             
- W       | translata o objeto +N unidades no eixo Y               
- S       | translata o objeto -N unidades no eixo Y               
- A       | translata o objeto -N unidades no eixo X               
- D       | translata o objeto +N unidades no eixo X
- E       | rotaciona N graus para direita em relação ao eixo Y    
- Q       | rotaciona N graus para a esquerda em relação ao eixo Y 
- Z       | rotaciona N graus para direita em relação ao eixo X    
- C       | rotaciona N graus para a esquerda em relação ao eixo X 
-Tab      | rotaciona N graus para direita em relação ao eixo Z    
-Capslovk | rotaciona N graus para direita em relação ao eixo Z    
- +       | escala o objeto em 10% a mais do seu tamanho atual - NUMPAD    
- -       | escala o objeto em 10% a mais do seu tamanho atual - NUMPAD     
- →       | move câmera para direita                      
- ←       | move câmera para esquerda                     
- ↑       | move câmera para frente                                
- ↓       | move câmera para trás                                  
- Mouse   | livre movimentação em todas direção da camera
+ 1 | Seleciona o primeiro objeto                            
+ 2 | Seleciona o segundo objeto                             
+ W | translata o objeto +N unidades no eixo Y               
+ S | translata o objeto -N unidades no eixo Y               
+ A | translata o objeto -N unidades no eixo X               
+ D | translata o objeto +N unidades no eixo X
+ E | rotaciona N graus para direita em relação ao eixo Y    
+ Q | rotaciona N graus para a esquerda em relação ao eixo Y 
+ Z | rotaciona N graus para direita em relação ao eixo X    
+ C | rotaciona N graus para a esquerda em relação ao eixo X 
+Tab | rotaciona N graus para direita em relação ao eixo Z    
+Capslock | rotaciona N graus para direita em relação ao eixo Z    
+ + | escala o objeto em 10% a mais do seu tamanho atual - NUMPAD    
+ - | escala o objeto em 10% a mais do seu tamanho atual - NUMPAD     
+ → | move câmera para direita                      
+ ← | move câmera para esquerda                     
+ ↑ | move câmera para frente                                
+ ↓ | move câmera para trás                                  
+ Mouse | livre movimentação em todas direção da camera
+ 
+ 
+ 
+ 
