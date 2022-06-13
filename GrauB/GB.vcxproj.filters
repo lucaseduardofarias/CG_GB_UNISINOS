@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Files\Face.cpp">
+      <Filter>FilesCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Files\Group.cpp">
+      <Filter>FilesCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Files\Material.cpp">
+      <Filter>FilesCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Files\Mesh.cpp">
+      <Filter>FilesCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Files\Shader.cpp">
+      <Filter>FilesCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Files\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Headers\AssetManager.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Obj3D.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Mesh.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Material.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Includes.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Group.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Texture.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\System.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Shader.h">
+      <Filter>FilesH</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+    <None Include="Shaders\Core\core.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\Core\core.frag">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{56024231-aefc-4e6a-bf14-46ee6f10193d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FilesCpp">
+      <UniqueIdentifier>{791ab83e-8df6-4d5f-8493-431e8c21dbae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FilesH">
+      <UniqueIdentifier>{3e1cba5f-1ff9-4860-af7f-5963c1d36ade}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
