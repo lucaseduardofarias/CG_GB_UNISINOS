@@ -53,8 +53,8 @@ Comando | Descrição
  C | rotaciona N graus para a esquerda em relação ao eixo X 
 Tab | rotaciona N graus para direita em relação ao eixo Z    
 Capslock | rotaciona N graus para direita em relação ao eixo Z    
- + | escala o objeto em 10% a mais do seu tamanho atual - NUMPAD    
- - | escala o objeto em 10% a mais do seu tamanho atual - NUMPAD     
+ Numpad + | escala o objeto em 10% a mais do seu tamanho atual - NUMPAD    
+ Numpad - | escala o objeto em 10% a mais do seu tamanho atual - NUMPAD     
  → | move câmera para direita                      
  ← | move câmera para esquerda                     
  ↑ | move câmera para frente                                
